@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Replace>
+  <Type1>
+    <Before>.html</Before>
+    <After>.sql</After>
+  </Type1>
+  <Type2>
+    <Before>.con</Before>
+    <After>.config</After>
+  </Type2>
+</Replace>

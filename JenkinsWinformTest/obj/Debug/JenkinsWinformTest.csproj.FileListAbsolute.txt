@@ -1,0 +1,17 @@
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\bin\Debug\Config\UpdateConfig.xml
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\bin\Debug\UpdateConfig.xml
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\bin\Debug\JenkinsWinformTest.exe.config
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\bin\Debug\JenkinsWinformTest.exe
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\bin\Debug\JenkinsWinformTest.pdb
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\bin\Debug\UpdateManager.exe
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\bin\Debug\UpdateManager.pdb
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\bin\Debug\UpdateManager.exe.config
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\obj\Debug\JenkinsWinformTest.csproj.AssemblyReference.cache
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\obj\Debug\JenkinsWinformTest.Form1.resources
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\obj\Debug\JenkinsWinformTest.Properties.Resources.resources
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\obj\Debug\JenkinsWinformTest.csproj.GenerateResource.cache
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\obj\Debug\JenkinsWinformTest.csproj.CoreCompileInputs.cache
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\obj\Debug\JenkinsWinformTest.csproj.CopyComplete
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\obj\Debug\JenkinsWinformTest.exe
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\obj\Debug\JenkinsWinformTest.pdb
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\bin\Debug\version.txt

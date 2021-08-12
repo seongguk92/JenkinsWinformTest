@@ -8,3 +8,9 @@ D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\obj\Release\JenkinsW
 D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\obj\Release\JenkinsWinformTest.csproj.CoreCompileInputs.cache
 D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\obj\Release\JenkinsWinformTest.exe
 D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\obj\Release\JenkinsWinformTest.pdb
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\bin\Release\Config\UpdateConfig.xml
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\bin\Release\UpdateConfig.xml
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\bin\Release\UpdateManager.exe
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\bin\Release\UpdateManager.pdb
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\bin\Release\UpdateManager.exe.config
+D:\개인프로젝트\JenkinsWinformTest\JenkinsWinformTest\obj\Release\JenkinsWinformTest.csproj.CopyComplete
