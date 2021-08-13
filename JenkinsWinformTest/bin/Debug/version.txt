@@ -1,4 +1,0 @@
-ver:20.10.28.02
-date:20201028
-1=version.txt
-2=JenkinsWinformTest.exe2

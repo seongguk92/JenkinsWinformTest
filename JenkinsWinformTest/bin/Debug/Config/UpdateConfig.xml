@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Config>
-  <Info>
-    <data key="URLUPDATE" value="http://update.sports2i.com/test" />
-    <data key="UPDATEAPP" value="UpdateManager" />
-    <data key="FILENAME" value="JenkinsWinformTest" />
-    <data key="ISFORCED" value="false" />
-  </Info>
-</Config>
